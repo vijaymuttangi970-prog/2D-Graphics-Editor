@@ -8,7 +8,6 @@ Advanced C Programming Mini Project
 - Draw Rectangle
 - Draw Line
 - Draw Triangle
-- Draw Circle
 - Delete Rectangle
 - Modify Rectangle
 - Display Canvas
